@@ -6,7 +6,7 @@ I'm a passionate developer with a love for creating innovative solutions to comp
 ### Skills
 - **Programming Languages:** JavaScript, Java, HTML, CSS, C++.
 - **Frameworks and Libraries:** React, Angular, etc.
-- **Tools and Technologies:** Github, Visual Studio, IntelliJ etc.
+- **Tools and Technologies:** Github, Visual Studio, IntelliJ, etc.
 
 ### Projects
 Here are some of the projects I've been working on:
