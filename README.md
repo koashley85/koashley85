@@ -4,9 +4,9 @@
 I'm a passionate developer with a love for creating innovative solutions to complex problems. With a strong background in programming and web development, I enjoy working on projects that challenge my skills and help me grow as a professional.
 
 ### Skills
-- **Programming Languages:** [JavaScript, Java, HTML, CSS, C++.]
-- **Frameworks and Libraries:** [React, Angular, etc.]
-- **Tools and Technologies:** [List other tools and technologies you're proficient in, e.g., Git, Docker, etc.]
+- **Programming Languages:** JavaScript, Java, HTML, CSS, C++.
+- **Frameworks and Libraries:** React, Angular, etc.
+- **Tools and Technologies:** Github, Visual Studio, IntelliJ etc.
 
 ### Projects
 Here are some of the projects I've been working on:
