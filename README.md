@@ -11,7 +11,7 @@ I'm a passionate developer with a love for creating innovative solutions to comp
 ### Projects
 Here are some of the projects I've been working on:
 
-- [**IRS Tax Program**](https://github.com/koashley85/Irs-Tax-Program/)): Creates differnet calculations for taxes based on the category that the user selects.
+- [**IRS Tax Program**](https://github.com/koashley85/Irs-Tax-Program/): Creates differnet calculations for taxes based on the category that the user selects.
 - [**Average**](https://github.com/koashley85/Average): A brief description of what the project does.
 
 ### GitHub Stats
