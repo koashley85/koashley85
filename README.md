@@ -11,11 +11,13 @@ I'm a passionate developer with a love for creating innovative solutions to comp
 ### Projects
 Here are some of the projects I've been working on:
 
+- [**Portfolio Website**](https://github.com/koashley85/Portfolio): This is a portfolio site made with Html, CSS & Javascript.
 - [**IRS Tax Program**](https://github.com/koashley85/Irs-Tax-Program/): Creates differnet calculations for taxes based on the category that the user selects.
 - [**Average**](https://github.com/koashley85/Average/): Calculates the averages of 3 numbers from user input.
 - [**Magic Square**](https://github.com/koashley85/magicSquare/): Fills in missing number from a group of numbers.
 - [**Sq Foot Calculator**](https://github.com/koashley85/Sq-Foot-Calculator/): This program calculates sq foot and quotes a price based on a cost per sq foot.
 - [**Python Code**](https://github.com/koashley85/Python-Code/): This is a collection of python programs.
+
 
 ### GitHub Stats
 ![koashley85's GitHub stats](https://github-readme-stats.vercel.app/api?username=koashley85&show_icons=true&theme=radical)
